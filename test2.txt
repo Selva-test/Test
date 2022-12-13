@@ -1,5 +1,7 @@
-This is my git project
 
-git init
-git commit
-git add
+public class Bank(){
+
+public static void main(String[] args){
+}
+}
+
